@@ -1,8 +1,8 @@
-# Position-Guided Transformer for Image Captioning
-This repository contains the reference code for the paper _[Position-Guided Transformer for Image Captioning]
+# Dual-Spatial Normalized Transformer for Image Captioning
+This repository contains the reference code for the paper _[Dual-Spatial Normalized Transformer for Image Captioning]
 
 <p align="center">
-  <img src="images/PGT.png" alt="Position-Guided Transformer" width="960"/>
+  <img src="images/DSNT.png" alt="Dual-Spatial Normalized Transformer" width="960"/>
 </p>
 
 ## Environment setup
