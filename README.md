@@ -1,5 +1,5 @@
 # Dual-Spatial Normalized Transformer for Image Captioning
-This repository contains the reference code for the paper Dual-Spatial Normalized Transformer for Image Captioning.
+This repository contains the reference code for the paper  _[Dual-Spatial Normalized Transformer for image captioning](https://www.sciencedirect.com/science/article/abs/pii/S0952197623005687)_.
 
 <p align="center">
   <img src="images/DSNT.png" alt="Dual-Spatial Normalized Transformer" width="960"/>
